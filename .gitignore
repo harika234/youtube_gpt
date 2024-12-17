@@ -7,7 +7,8 @@
 
 # testing
 /coverage
-
+# Ignore constants.js
+constants.js
 # production
 /build
 
